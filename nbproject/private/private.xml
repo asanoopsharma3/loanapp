@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/loanapp/app/Http/Controllers/Api/PostController.php</file>
+            <file>file:/var/www/html/loanapp/app/Models/User.php</file>
+            <file>file:/var/www/html/loanapp/database/migrations/2022_09_17_093549_create_loan_table.php</file>
+            <file>file:/var/www/html/loanapp/app/Helpers/Functions.php</file>
+            <file>file:/var/www/html/loanapp/routes/api.php</file>
+            <file>file:/var/www/html/loanapp/app/Http/Controllers/Api/LoanController.php</file>
+            <file>file:/var/www/html/loanapp/app/Http/Resources/LoanResource.php</file>
+            <file>file:/var/www/html/loanapp/database/migrations/2022_09_17_101357_create_posts_table.php</file>
+            <file>file:/var/www/html/loanapp/app/Models/Loan.php</file>
+            <file>file:/var/www/html/loanapp/app/Http/Middleware/VerifyCsrfToken.php</file>
+            <file>file:/var/www/html/loanapp/app/Models/Post.php</file>
+            <file>file:/var/www/html/loanapp/app/Models/LoanPayments.php</file>
+            <file>file:/var/www/html/loanapp/app/Http/Resources/PostResource.php</file>
+            <file>file:/var/www/html/loanapp/app/Http/Kernel.php</file>
+            <file>file:/var/www/html/loanapp/app/Http/Controllers/Api/LoginController.php</file>
+            <file>file:/var/www/html/loanapp/.env</file>
+            <file>file:/var/www/html/loanapp/.editorconfig</file>
+            <file>file:/var/www/html/loanapp/database/migrations/2022_09_17_100240_create_loan_payments_table.php</file>
+            <file>file:/var/www/html/loanapp/config/database.php</file>
+            <file>file:/var/www/html/loanapp/app/Http/Middleware/Authenticate.php</file>
+        </group>
+    </open-files>
+</project-private>
